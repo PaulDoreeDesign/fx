@@ -1,0 +1,8 @@
+apply plugin: 'java'
+
+group = 'org.fx'
+version = '1.0.0-SNAPSHOT'
+description = "FX Test"
+
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
